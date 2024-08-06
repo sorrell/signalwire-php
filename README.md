@@ -1,13 +1,13 @@
 # SignalWire PHP
 
+> ⚠️ Disclaimer:
+>
+> This is a hard fork of the signalwire-community package with a focus on supporting messaging and voice.
+> For example, I've removed the Fax references for compatibility with the Twilio 7+ SDK.
 
 ![Packagist Version](https://img.shields.io/packagist/v/signalwire-community/signalwire.svg?color=brightgreen)
 
 The Relay SDK for PHP enables PHP developers to connect and use SignalWire's Relay APIs within their own PHP code. Our Relay SDK allows developers to build or add robust and innovative communication services to their applications.
-
-> ⚠️ Disclaimer:
->
-> The libraries in this repository are NOT supported by SignalWire.
 
 ## Getting Started
 
